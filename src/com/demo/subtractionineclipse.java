@@ -7,6 +7,10 @@ public class subtractionineclipse {
 		int a=20;
 		int b=10;
 		System.out.println("subtraction="+(a-b));
+		// by pull operation
+		a=30;
+		b=20;
+		System.out.println("sub="+(a-b));
 
 	}
 
